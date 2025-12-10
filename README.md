@@ -2,6 +2,10 @@
 
 **Offensive Security Researcher | Web Security | Recon Automation**
 
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![Bash](https://img.shields.io/badge/Bash-Expert-green) ![Recon](https://img.shields.io/badge/Recon-Passive-blueviolet) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Enabled-brightgreen)
+
+---
+
 ## About Me
 Offensive security researcher with a focus on automated reconnaissance, large‑scale subdomain enumeration, HTTP fingerprinting, and building tooling for red‑team workflows.
 
@@ -24,7 +28,7 @@ A modular passive recon tool that combines multiple enumeration engines (crt.sh,
 - Severity scoring engine  
 - Final structured CSV reporting  
 
-**Repo:** *https://github.com/antibugz/widerec*
+**Repo:** [Widerec on GitHub](https://github.com/antibugz/widerec)
 
 ---
 
