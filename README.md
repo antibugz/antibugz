@@ -37,6 +37,8 @@ My security write‑ups are published on Medium:
 
 - How I Fingerprinted the OpenAI 2025 ChatGPT Containers  
   https://medium.com/@antiibugss/how-i-fingerprinted-the-openai-2025-chatgpt-containers-using-only-the-free-tier-4be9c2740fd2
+- AI Chat Platform Sharing Flow: When Intended Functionality Leads to Privacy Exposure  
+  https://medium.com/@antiibugss/ai-chat-platform-sharing-flow-when-intended-functionality-leads-to-privacy-exposure-0ff548b02f1a
 
 More articles coming soon.
 
